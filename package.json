@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "axios": "^1.7.9",
+    "boxen": "^8.0.1",
+    "chalk": "^5.4.1",
+    "figlet": "^1.8.0",
+    "fs": "^0.0.1-security",
+    "twisters": "^1.1.0"
+  },
+  "type": "module"
+}
